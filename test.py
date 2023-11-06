@@ -163,11 +163,12 @@ with tab1:
 with tab2:
     st.markdown(f'#### 가장 많이 언급된 단어에요!')
     st.write("  ")
-    st.markdown(f'##### 🥇 s')
-    st.markdown(f'##### 🥈 s')
-    st.markdown(f'##### 🥉 s')
+    st.markdown('🥇 ThinkWide')
+    st.markdown('🥈 김봉남 바보')
+    st.markdown('🥉 마인드맵')
 
 
 with tab3:
+    st.title("ThinkWide 가상 회의록")
     st.markdown(meeting_data)
 
