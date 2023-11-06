@@ -1,0 +1,6 @@
+numpy
+pandas
+streamlit
+mindmap
+pyvis
+streamlit_markmap
