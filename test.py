@@ -124,7 +124,7 @@ st.write(len(location), "가지를 선택했습니다.")
 
 
 
-tab1, tab2, tab3 = st.tabs(["MINDMAP-NODE🫧", "메롱메롱📈", "회의분석📊"])
+tab1, tab2, tab3 = st.tabs(["MINDMAP-NODE🫧", "키워드분석📈", "회의분석📊"])
 
 with tab1:
     st.markdown('')
@@ -134,7 +134,7 @@ with tab1:
 
 
 with tab2:
-    st.markdown(f'#### 와(과) 다른 지표와의 상관관계를 나타낸 시각자료에요.')
+    st.markdown(f'#### 가장 많이 언급된 단어에요!')
     st.write("  ")
     st.markdown(f'##### 🥇 s')
     st.markdown(f'##### 🥈 s')
@@ -142,6 +142,6 @@ with tab2:
 
 
 with tab3:
-    st.markdown(f'#### 와(과) 다른 지표와의 상관계수를 큰 순서대로 나타냈어요.')
-    st.markdown(f'※ pearson 상관계수 기준')
+    st.markdown(f'#### 냠냠 쩝쩝. 냠냠 쩝쩝.')
+    st.markdown(f'※ 하하 호호')
 
