@@ -110,7 +110,7 @@ for tag, color in zip(hashtags, colors):
 
 
 st.markdown("""---""")
-with open('c:/CODE/thinkwide/structured_markdown_data.md', encoding='utf-8') as fp:
+with open('/structured_markdown_data.md', encoding='utf-8') as fp:
     md = fp.read()
 markmap(md,height=400)
 
