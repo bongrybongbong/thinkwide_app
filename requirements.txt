@@ -8,5 +8,6 @@ Pillow
 typing
 itertools
 datetime
+streamlit_extras
 
 
