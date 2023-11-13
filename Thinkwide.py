@@ -1,6 +1,6 @@
 from typing import List
 import streamlit as st
-from markdownlit import mdlit
+#from markdownlit import mdlit
 from streamlit_pills import pills
 from streamlit_extras.switch_page_button import switch_page
 from data.pages_mt import page_data
