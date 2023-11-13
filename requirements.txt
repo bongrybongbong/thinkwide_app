@@ -3,6 +3,6 @@ pandas
 #streamlit
 #mindmap
 pyvis
-markdownlit
+markdownlit==0.0.7
 streamlit_markmap
 markdown-it-py python
