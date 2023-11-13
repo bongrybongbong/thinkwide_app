@@ -46,7 +46,7 @@ with col2:
 
 with col3:
     st.subheader('🪐추가적인 무언가')
-    video_file = open(r'C:\CODE\thinkwide_app-main\img\sample_video.mp4', 'rb')
+    video_file = open('img/sample_video.mp4', 'rb')
     video_bytes = video_file.read()
     st.video(video_bytes)
    
