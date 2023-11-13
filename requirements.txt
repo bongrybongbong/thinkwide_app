@@ -1,7 +1,7 @@
 numpy
 pandas
-streamlit
-mindmap
+#streamlit
+#mindmap
 pyvis
 markdownlit
 streamlit_markmap
