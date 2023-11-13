@@ -3,5 +3,5 @@ pandas
 streamlit
 mindmap
 pyvis
-streamlit_markmap
 markdownlit
+streamlit_markmap
