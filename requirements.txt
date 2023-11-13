@@ -5,3 +5,4 @@ mindmap
 pyvis
 markdownlit
 streamlit_markmap
+markdown-it-py python
